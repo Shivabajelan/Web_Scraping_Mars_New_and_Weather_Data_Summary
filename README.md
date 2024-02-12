@@ -22,12 +22,12 @@
 #### 5.Printed the list in the Jupyter Notebook.
 #### 6.Stored the scraped data in a JSON file for easier sharing.
 ## Part 2: Mars Weather Data Scraping and Analysis
-Used automated browsing with Splinter to visit the Mars Temperature Data Site.
-Created a Beautiful Soup object to scrape the data in the HTML table.
-Assembled the scraped data into a Pandas DataFrame with appropriate column headings.
-Examined and cast the data types to appropriate datetime, int, or float data types if necessary.
-Analyzed the dataset to answer questions related to Martian months, days, temperature, and atmospheric pressure.
-Visualized the results using bar charts and line plots.
-Exported the DataFrame to a CSV file.
+#### 1.Used automated browsing with Splinter to visit the Mars Temperature Data Site.
+#### 2.Created a Beautiful Soup object to scrape the data in the HTML table.
+#### 3.Assembled the scraped data into a Pandas DataFrame with appropriate column headings.
+#### 4.Examined and cast the data types to appropriate datetime, int, or float data types if necessary.
+#### 5.Analysed the dataset to answer questions related to Martian months, days, temperature, and atmospheric pressure.
+#### 6.Visualised the results using bar charts and line plots.
+#### 7.Exported the DataFrame to a CSV file.
 # Conclusion
-This project demonstrated the ability to effectively use web scraping techniques to collect and analyze data from Mars-related websites. The findings provide valuable insights into Martian months, days, temperature, and atmospheric pressure.
+##### This project demonstrated the ability to effectively use web scraping techniques to collect and analyze data from Mars-related websites. The findings provide valuable insights into Martian months, days, temperature, and atmospheric pressure.
